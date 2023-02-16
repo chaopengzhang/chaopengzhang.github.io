@@ -8,14 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Talks & Awards"
-    url: /talk_awards/ 
+#   - title: "Talks & Awards"
+#     url: /talk_awards/ 
 
-  - title: "Services"
-    url: /services/ 
+#   - title: "Services"
+#     url: /services/ 
 
-  # - title: "Dataset"
-  #   url: /dataset/
+  - title: "Dataset"
+    url: /dataset/
     
   # - title: "CV"
   #   url: /cv/
