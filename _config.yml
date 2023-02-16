@@ -1,6 +1,7 @@
 ---
-title: Wenshuo Wang - Homepage
-timezone: America/Los_Angeles
+# Site Settings
+title: Chaopeng Zhang - Homepage
+timezone: China/Beijing
 collections:
   portfolio:
     title: Portfolio
@@ -66,13 +67,12 @@ defaults:
     share: true
 locale: en-US
 title_separator: "-"
-name: Wenshuo Wang
-description: PhD, Beijing Institute of Technology, Postdoc in Civil
-  Engineering, McGill University
-url: https://wenshuowang.github.io
+name: Chaopeng Zhang
+description: PhD Student, Beijing Institute of Technology
+url: https://chaopengzhang.github.io
 baseurl: ''
-repository: wenshuowang.github.io
-teaser: Wenshuo.jpeg
+repository: chaopengzhang.github.io
+teaser: ChaopengZhang.jpg
 breadcrumbs: false
 words_per_minute: 160
 future: true
@@ -117,6 +117,8 @@ google_site_verification:
 bing_site_verification: 
 alexa_site_verification: 
 yandex_site_verification: 
+
+# SEO Related
 twitter:
   username: 
 facebook:
@@ -137,16 +139,17 @@ show_google_analytics: true
 google_analytics_code: UA-132678836-1
 use_logo: true
 logo: "/assets/UW_square.png"
+# Site Author
 author:
-  name: Wenshuo Wang
-  avatar: WenshuoWang.jpg
-  bio: "<p> IVADO Postdoc Fellowship <br /> PhD, Mechanical Engingeering <br />"
+  name: Chaopeng Zhang
+  avatar: ChaopengZhang.jpg
+  bio: "<p> Ph.D. Candidate Beijing Institute of Technology "
   location: 
-  employer: McGill University, Canada
-  googlescholar: https://scholar.google.ca/citations?user=vQ1dKQwAAAAJ&hl=en
-  email: wenshuo.wang@mcgill.ca
+  employer: Beijing, China
+  googlescholar: 
+  email: zhangcp_bit@foxmail.com
   CV: 
-  researchgate: https://www.researchgate.net/profile/Wenshuo-Wang
+  researchgate: 
   uri: 
   bitbucket: 
   codepen: 
@@ -154,7 +157,7 @@ author:
   flickr: 
   facebook: 
   foursquare: 
-  github: wenshuowang
+  github: chaopengzhang
   google_plus: 
   keybase: 
   instagram: 
@@ -166,13 +169,15 @@ author:
   stackoverflow: 
   steam: 
   tumblr: 
-  twitter: wang_wwsbit
+  twitter: 
   vine: 
   weibo: 
   xing: 
   youtube: 
   wikipedia: 
   blog: 
+
+# Reading Files
 include:
 - ".htaccess"
 - _pages
