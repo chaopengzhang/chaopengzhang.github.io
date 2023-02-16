@@ -10,7 +10,7 @@ layout: archive
 ---
 
 
-Hi! I am currently pursuing the Ph.D. degree in mechanical engineering under the supervision of Prof. Junqiang Xi in [Beijing Institute of Technology(BIT)](https://me-english.bit.edu.cn/), China. I received the B.S. degree from BIT in 2019. I am also fortunate to work with [Wenshuo Wang](https://wenshuowang.github.io/). My research interest lies on understanding human driving behavior when interacting with an autonomous vehicle and other agents in traffic toward human-centered vehicles. My research goal is to develop a computationally efficient and interpretable way to understand and recognize the human **driving style** and **driving intention** to facilitate the development of **human-centered intelligent vehicles**. 
+Hi! I am currently pursuing the Ph.D. degree in mechanical engineering under the supervision of Prof. Junqiang Xi in [Beijing Institute of Technology(BIT)](https://me-english.bit.edu.cn/), China. I received the B.S. degree from BIT in 2019. I am also fortunate to work with [Wenshuo Wang](https://wenshuowang.github.io/). My research interest lies on understanding **human driving behavior** when interacting with an autonomous vehicle and other agents in traffic toward human-centered vehicles. My research goal is to develop a computationally efficient and interpretable way to understand and recognize the human **driving style** and **driving intention** to facilitate the development of **human-centered intelligent vehicles**. 
 
 ## News 
 <table style="width:100%">
