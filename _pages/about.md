@@ -10,16 +10,8 @@ layout: archive
 ---
 
 
-Hi! I am a Postdoc Fellow supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), [Ching-Yao Chan](https://path.berkeley.edu/home), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree (Best Dissertation Award) in Mechanical Engineering from [Beijing Institute of Technology](https://me-english.bit.edu.cn/), China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). In 2015-2018, I was a visiting graduate student at [UC Berkeley](https://me.berkeley.edu/faculty/) and [University of Michigan](https://me.engin.umich.edu/). 
+Hi! I am currently pursuing the Ph.D. degree in mechanical engineering under the supervision of Prof. Junqiang Xi in [Beijing Institute of Technology(BIT)](https://me-english.bit.edu.cn/), China. I received the B.S. degree from BIT in 2019. I am also fortunate to work with [Wenshuo Wang](https://wenshuowang.github.io/). My research interest lies at driving style recognization, driving intention recognization, and personalized human-machine co-driving. My research goal is to develop personalized human-machine co-driving system consider drivers' preference.
 
-
-<img align="right" src="../images/research/researchframe.png" width="300">
-
-My research interest lies at <span style="color:gray">**Cognitive Autonomy & Interactive Learning (CAIL)**</span> --- leveraging insights of computational cognitive science with machine learning theory to enable AI-based agents more efficient, safer, and smarter when interacting with human. My research goal is to develop theoretical frameworks and practical algorithms to understand human interactions by employing **Bayesian learning** and **optimization** with the support of **computational cognitive sciences** toward <span style="color:gray">**Socially Interactive Autonomous Mobility (SIAM)**</span>, a truly safe and trustworthy system that places the human at the center of a superior driving experience, including:
-
-* Human robot interaction, Human modeling, Cognition & perception
-* Autonomous vehicles, Multi-agent interaction, Human-centric systems, Personalized mobility 
-* Bayesian learning, (Inverse) Reinforcement learning, Active inference, and Optimization & control
 
 ## News 
 <table style="width:100%">
@@ -30,22 +22,7 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
-* <span style="color:darkred"> New! </span> 12/2022. Our paper on [How much data are enough?](https://ieeexplore.ieee.org/abstract/document/7959200) recieved the [George N. Saridis Best Transactions Paper Award](https://ieeexplore.ieee.org/document/9991940) of IEEE T-IV.
-* <span style="color:darkred"> New! </span> Our research project on [Interactions for Automated Vehicles](https://chengyuan-zhang.github.io/Multivehicle-Interaction/) is ready to access. Welcome to join us!
-* <span style="color:darkred"> New! </span> 11/2022. Our long paper on [Social Interactions for Autonomous Driving](https://www.nowpublishers.com/article/Details/ROB-078) is accepted by Foundations and Trends in Robotics.
-* <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) will be hosted at IEEE IV'23.
-* <span style="color:darkred"> New! </span> 11/2022. I gave an invited talk to the Tongji University, China.
-* <span style="color:darkred"> New! </span> 11/2022. I gave a talk to the [Applied Research for Mobility System Group, Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/section/vehicle-and-mobility-systems-research).
-* <span style="color:darkred"> New! </span> 10/2022. I was invited to join the [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967) as an Associate Editor.
-* <span style="color:darkred"> New! </span> 10/2022. Our AVVision workshop was held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
-* <span style="color:darkred"> New! </span> 10/2022. I was invited to give an online talk for the School of Mechanical Engineering, Southeast University.
-* <span style="color:darkred"> New! </span> 09/2022. My two papers were accepted to [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
-* <span style="color:darkred"> New! </span> 09/2022. Our [NSERC](https://www.nserc-crsng.gc.ca/innovate-innover/alliance-alliance/index_eng.asp) propsoal on Driving Behavior Interaction was approved by collaborating with [Changliu Liu @ CMU](http://icontrol.ri.cmu.edu/)! 
-* <span style="color:darkred"> New! </span> 08/2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
-* <span style="color:darkred"> New! </span> 07/2022. I was invited to give a talk on [COTA'22](http://cota-home.org/CICTP/CICTP2019.html).
-* <span style="color:darkred"> New! </span> 05/2022. I was recognized as the Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
-* <span style="color:darkred"> New! </span> 05/2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
-* <span style="color:darkred"> New! </span> 01/2022. I was invited to join [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) as an Associate Editor.
+
 
 
 
