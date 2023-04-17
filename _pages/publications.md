@@ -93,7 +93,7 @@ author_profile: true
       <td colspan="5"><div align="justify"> <b>Abstract</b>: Effective driving style analysis is critical to developing human-centered intelligent driving systems that consider drivers' preferences. However, the approaches and conclusions of most related studies are diverse and inconsistent because no unified datasets tagged with driving styles exist as a reliable benchmark. The absence of explicit driving style labels makes verifying different approaches and algorithms difficult. This paper provides a new benchmark by constructing a Natural Dataset of Driving Style (NDDStyle) tagged with the subjective evaluation of 100 drivers' driving styles. In our dataset, the subjective quantification of each driver's driving style is from themselves and an expert according to the Likert-scale questionnaire. The testing routes are selected to cover various driving scenarios, including highways, urban, high-way ramps, and signalized traffic. The collected driving data consists of lateral and longitudinal manipulation information collected from CAN, including steering angle, steering speed, lateral acceleration, throttle position, throttle rate, brake pressure, etc. This driving-style dataset is the first to provide detailed manipulation data with driving-style tags.   </div>
     </td>
    </tr>
-<!--   <tr id="zhang2022coordinatedcontrol" class="entry">
+  <tr id="zhang2022coordinatedcontrol" class="entry">
           <td>
         <div class="polaroid">
           <img src="../images/research/zhang2022coordinatedcontrol.png" width="600" class="research_img">
@@ -179,7 +179,7 @@ author_profile: true
 }
                 </pre>
         </td>
-  </tr>   -->
+  </tr>   
 	</tbody>
 </table>
 
