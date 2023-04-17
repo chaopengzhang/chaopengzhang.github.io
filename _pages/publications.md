@@ -119,7 +119,7 @@ author_profile: true
       <td>2022</td>
       <td>Acta Armamentarii</td>
   </tr>
-  <tr id="abs_zhang2022coordinatedcontrol" class="abstract noshow">
+<!--   <tr id="abs_zhang2022coordinatedcontrol" class="abstract noshow">
       <td colspan="5"><div align="justify"> <b>Abstract</b>: Unmanned dual-motor electric drive tracked vehicles have large braking control tracking errors due to poor coordination performance between mechanical and electric systems. To solve this problem, a hierarchical controller is proposed. In the upper controller, a feedforward-feedback controller is constructed based on the expected deceleration sequence of the unmanned driving system. The expected deceleration is used as the feedforward input to compensate the target braking torque, and the speed error is used as the feedback input to correct the target torque difference. In the lower controller, a braking force distribution algorithm is established based on fuzzy control, which combines the characteristics of mechanical braking and motor braking. The vehicle test shows that compared with the speed segmented controller, the hierarchical controller can accurately track the expected speed sequence with the speed tracking error reduced by 60.1% and the acceleration standard deviation reduced by 39.4%. The target tracking accuracy of the brake control of the unmanned dual-motor electric drive tracked vehicle is improved.  </div>
     </td>
    </tr>
@@ -179,7 +179,7 @@ author_profile: true
 }
                 </pre>
         </td>
-  </tr>
+  </tr> -->
 	</tbody>
 </table>
 
