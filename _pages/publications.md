@@ -93,13 +93,13 @@ author_profile: true
       <td colspan="5"><div align="justify"> <b>Abstract</b>: Effective driving style analysis is critical to developing human-centered intelligent driving systems that consider drivers' preferences. However, the approaches and conclusions of most related studies are diverse and inconsistent because no unified datasets tagged with driving styles exist as a reliable benchmark. The absence of explicit driving style labels makes verifying different approaches and algorithms difficult. This paper provides a new benchmark by constructing a Natural Dataset of Driving Style (NDDStyle) tagged with the subjective evaluation of 100 drivers' driving styles. In our dataset, the subjective quantification of each driver's driving style is from themselves and an expert according to the Likert-scale questionnaire. The testing routes are selected to cover various driving scenarios, including highways, urban, high-way ramps, and signalized traffic. The collected driving data consists of lateral and longitudinal manipulation information collected from CAN, including steering angle, steering speed, lateral acceleration, throttle position, throttle rate, brake pressure, etc. This driving-style dataset is the first to provide detailed manipulation data with driving-style tags.   </div>
     </td>
    </tr>
-<!--    <tr id="zhang2022coordinatedcontrol" class="entry">
+  <tr id="zhang2022coordinatedcontrol" class="entry">
           <td>
         <div class="polaroid">
           <img src="../images/research/zhang2022coordinatedcontrol.png" width="600" class="research_img">
           <!-- <div class="container">
           Local Prior Sensitivity
-          </div> -->
+          </div>
         </div>
       </td>
           <td><strong>C. Zhang</strong>,  Q. Liu, et al.</td>
@@ -161,8 +161,8 @@ author_profile: true
         </td>
       <td>2022</td>
       <td>Acta Armamentarii</td>
-  </tr> -->
-<!--   <tr id="abs_liu2022decision-making" class="abstract noshow">
+  </tr> 
+     <tr id="abs_liu2022decision-making" class="abstract noshow">
       <td colspan="5"><div align="justify"> <b>Abstract</b>:  Atpresent, theresearch on the kinematics- and dynamics-based longitudinal decision-making system of electric unmanned tracked vehicles are confronted with problems such as poor adaptability and difficulty to obtain accurate model parameters. Aiming at the driving scenarios of the unmanned tracked vehicle straight-linedriving and approaching obstacles, this study introduces the longitudinal decision-making mechanism for driversby analyzing the driving data and constructsa model usingthe combination of Gaussian Mixture Model (GMM) and Hidden Semi-Markov Model (HSMM) to simulate the longitudinal decision-making process of experienced drivers. In the GMM-HSMM system, the GMM is utilized to identify the driving intention as well as cluster and quantifythe driving behavior duringtheobstacle-approachingprocess;the HSMM is applied to model the decision transfer process and the duration of the same decision. This system is verified by a real platform under different road conditions. The experimental results indicate that the proposed driver model canwellsimulate the longitudinal decision-making mechanismfor drivers,where the acceleration is limited to 3.5 m/s2, the deceleration is larger than -4.5 m/s2, andthe average value of absolute acceleration at the decision boundary approaches 0.8 m/s2. Meanwhile, the GMM-HSMM-basedsystem is shown to be able to adapt to different road conditions withoutrelying on accurate road parameters by retraining the decision durationdistribution. </div>
     </td>
    </tr>
@@ -179,7 +179,7 @@ author_profile: true
 }
                 </pre>
         </td>
-  </tr>  -->
+  </tr>  
 	</tbody>
 </table>
 
