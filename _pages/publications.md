@@ -33,10 +33,40 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
+  <tr id="zhang2024embedded" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="../images/research/zhang2024embedded.png" width="600" class="research_img">
+          <!-- <div class="container">
+          Local Prior Sensitivity
+          </div> -->
+        </div>
+      </td>
+          <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
+      <td>
+        An Embedded Driving Style Recognition Approach: Leveraging Knowledge in Learning<br>
+                <p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('zhang2024embedded','abstract')">Abstract</a>]
+                  <!-- [<a href="javascript:toggleInfo('zhang2024embedded','bibtex')">BibTeX</a>]  -->
+                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+                  <!--[<a href="https://arxiv.org/abs/2210.08256">arXiv</a>] -->
+                  <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+              </p>
+        </td>
+      <td>2024</td>
+      <td>IEEE Transactions on Intelligent Transportation Systems </td>
+  </tr>
+  <tr id="abs_zhang2024shareable" class="abstract noshow">
+      <td colspan="5"><div align="justify"> <b>Abstract</b>: Online driving style recognition can enhance the customization of human-centric driving systems, thereby improving comfort, safety, and fuel economy. However, the limited performance of automotive-grade chips makes it highly challenging to compile and run complicated algorithms in real time. To overcome this bottleneck, this paper proposes an embedded method for recognizing driving styles, which is computationally efficient. This approach leverages experts' prior knowledge in learning algorithms and applies it to the electronic control unit (ECU) characterized by a limited RAM. More specifically, the approach integrates knowledge-based rules and learning-based rules. The design of knowledge-based rules relies on the correlation between driving styles and vehicle dynamics (i.e., friction circle). Learning-based rules are established as explicit hyperplanes extracted through hierarchical clustering and support vector machine analysis of the naturalistic driving behaviors exhibited by 100 drivers. These knowledge- and learning-based rules are then integrated into an embedded driving style recognition model. The resulting model is compiled into an executable file that operates within the vehicle's onboard ECU. The proposed method is validated through real vehicle testing in naturalistic driving settings, demonstrating a remarkable 94.4% level of subjective-objective consistency.</div>
+    </td>
+  </tr>
   <tr id="zhang2024shareable" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/zhang2024shareable.pdf" width="600" class="research_img">
+          <img src="../images/research/zhang2024shareable.png" width="600" class="research_img">
           <!-- <div class="container">
           Local Prior Sensitivity
           </div> -->
