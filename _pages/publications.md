@@ -33,7 +33,7 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
-  <tr id="wang2022trustworthy" class="entry">
+  <tr id="zhang2024shareable" class="entry">
           <td>
         <div class="polaroid">
           <img src="../images/research/zhang2023shareable.png" width="600" class="research_img">
@@ -46,8 +46,8 @@ author_profile: true
       <td>
         Shareable Driving Style Learning and Analysis With a Hierarchical Latent Model<br>
                 <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('zhang2023shareable','abstract')">Abstract</a>]
-                  <!-- [<a href="javascript:toggleInfo('zhang2023shareable','bibtex')">BibTeX</a>]  -->
+                  [<a href="javascript:toggleInfo('zhang2024shareable','abstract')">Abstract</a>]
+                  <!-- [<a href="javascript:toggleInfo('zhang2024shareable','bibtex')">BibTeX</a>]  -->
                   <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
                   <!--[<a href="https://arxiv.org/abs/2210.08256">arXiv</a>] -->
                   <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
