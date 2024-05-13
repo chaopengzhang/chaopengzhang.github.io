@@ -36,7 +36,7 @@ author_profile: true
   <tr id="zhang2024shareable" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/zhang2023shareable.png" width="600" class="research_img">
+          <img src="../images/research/zhang2024shareable.pdf" width="600" class="research_img">
           <!-- <div class="container">
           Local Prior Sensitivity
           </div> -->
