@@ -44,7 +44,7 @@ author_profile: true
       </td>
           <td><strong>C. Zhang</strong>,  W. Wang, et al.</td>
       <td>
-        Inter-Individual Shareable Driving Style Analysis using CAN Signals with Latent Dirichlet Allocation<br>
+        Shareable Driving Style Learning and Analysis With a Hierarchical Latent Model<br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('zhang2023shareable','abstract')">Abstract</a>]
                   <!-- [<a href="javascript:toggleInfo('zhang2023shareable','bibtex')">BibTeX</a>]  -->
@@ -56,11 +56,11 @@ author_profile: true
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
         </td>
-      <td>2023</td>
-      <td>IEEE Transactions on Intelligent Transportation Systems (Under review)</td>
+      <td>2024</td>
+      <td>IEEE Transactions on Intelligent Transportation Systems </td>
   </tr>
-  <tr id="abs_zhang2023shareable" class="abstract noshow">
-      <td colspan="5"><div align="justify"> <b>Abstract</b>: Human driving behavior can recognize their driving style. Despite this, it remains pending (i) how the driving style of a naturally aggressive or calm person would evolve and manifest along their driving behavior and (ii) how one individual's driving behavior relates to another driver's behavior. Our insight is that individuals' driving behavior is a sequence of responses/executions to the mixture of some inter-individual shareable latent driving styles inherent in their minds. This paper presents a generic statistical framework to quantitatively analyze the changes in an individual's driving styles that are shareable among individuals.  To learn and analyze these driving styles, we segment sequential driving operations over a temporal space into a fixed granularity as the elemental components of driving styles and formulate the learning task as a topic-extraction problem with latent Dirichlet allocation (LDA). The validation and verification were conducted with 100 drivers in different driving settings, ranging from urban to highway. Experimental results show that our proposed framework can effectively learn the shareable driving styles and describe the dynamic process of driving behavior. We found that three driving styles learned from driving behavior are shared among individual drivers. Naturally aggressive drivers usually have a higher proportion of aggressiveness than other drivers, but they can be calmer according to factors such as the traffic environment. </div>
+  <tr id="abs_zhang2024shareable" class="abstract noshow">
+      <td colspan="5"><div align="justify"> <b>Abstract</b>: Driving style is usually used to characterize driving behavior for a driver or a group of drivers. However, it remains unclear how one individual’s driving style shares certain common grounds with other drivers. Our insight is that driving behavior is a sequence of responses to the weighted mixture of latent driving styles that are shareable within and between individuals. To this end, this paper develops a hierarchical latent model to learn the relationship between driving behavior and driving styles. We first propose a fragment-based approach to represent complex sequential driving behavior in a low-dimension feature space. Then, we provide an analytical formulation for the interaction of driving behavior and shareable driving styles through a hierarchical latent model. This model successfully extracts latent driving styles from extensive driving behavior data without the need for manual labeling, offering an interpretable statistical structure. Through real-world testing involving 100 drivers, our developed model is validated, demonstrating a subjective-objective consistency exceeding 90%, outperforming the benchmark method. Experimental results reveal that individuals share driving styles within and between them. We also found that individuals inclined towards aggressiveness only exhibit a higher proportion of such behavior rather than persisting consistently to be aggressive. </div>
     </td>
   </tr>
   <tr id="zhang2023dataset" class="entry">
@@ -86,11 +86,11 @@ author_profile: true
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
         </td>
-      <td>2023</td>
-      <td>2023 IEEE Intelligent Vehicles Symposium (under review)</td>
+      <td>2024</td>
+      <td>2024 IEEE Intelligent Vehicles Symposium (in press)</td>
   </tr>
-  <tr id="abs_zhang2023dataset" class="abstract noshow">
-      <td colspan="5"><div align="justify"> <b>Abstract</b>: Effective driving style analysis is critical to developing human-centered intelligent driving systems that consider drivers' preferences. However, the approaches and conclusions of most related studies are diverse and inconsistent because no unified datasets tagged with driving styles exist as a reliable benchmark. The absence of explicit driving style labels makes verifying different approaches and algorithms difficult. This paper provides a new benchmark by constructing a Natural Dataset of Driving Style (NDDStyle) tagged with the subjective evaluation of 100 drivers' driving styles. In our dataset, the subjective quantification of each driver's driving style is from themselves and an expert according to the Likert-scale questionnaire. The testing routes are selected to cover various driving scenarios, including highways, urban, high-way ramps, and signalized traffic. The collected driving data consists of lateral and longitudinal manipulation information collected from CAN, including steering angle, steering speed, lateral acceleration, throttle position, throttle rate, brake pressure, etc. This driving-style dataset is the first to provide detailed manipulation data with driving-style tags.   </div>
+  <tr id="abs_zhang2024dataset" class="abstract noshow">
+      <td colspan="5"><div align="justify"> <b>Abstract</b>: Effective driving style analysis is critical to developing human-centered intelligent driving systems that consider drivers’ preferences. However, the approaches and conclusions of most related studies are diverse and inconsistent because no unified datasets tagged with driving styles exist as a reliable benchmark. The absence of explicit driving style labels makes verifying different approaches and algorithms difficult. This paper provides a new benchmark by constructing a natural dataset of Driving Style (100-DrivingStyle) tagged with the subjective evaluation of 100 drivers’ driving styles. In this dataset, the subjective quantification of each driver’s driving style is from themselves and an expert according to the Likertscale questionnaire. The testing routes are selected to cover various driving scenarios, including highways, urban, highway ramps, and signalized traffic. The collected driving data consists of lateral and longitudinal manipulation information, including steering angle, steering speed, lateral acceleration, throttle position, throttle rate, brake pressure, etc. This dataset is the first to provide detailed manipulation data with drivingstyle tags, and we demonstrate its benchmark function using six classifiers. </div>
     </td>
    </tr>
  
